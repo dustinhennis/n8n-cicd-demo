@@ -10,3 +10,7 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+def healthcheck() -> dict:
+    return {"status": "ok", "version": VERSION}
