@@ -1,7 +1,7 @@
 """demoapp-backend — stand-in service for the n8n CI/CD demo."""
 
 VERSION = "1.0.0"
-LOG_LEVEL = "INFO"
+LOG_LEVEL = "DEBUG"
 
 
 def main() -> None:
