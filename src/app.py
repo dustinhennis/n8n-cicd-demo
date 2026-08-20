@@ -1,6 +1,6 @@
 """demoapp-backend — stand-in service for the n8n CI/CD demo."""
 
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 LOG_LEVEL = "INFO"
 
 
